@@ -1,0 +1,36 @@
+h1{
+margin-left: 35%;
+font-size: 420%;
+}
+body{
+  background-color: orange;
+}
+.five {
+    width: 41.66667%;
+}
+.columns {
+    float: left;
+    min-height: 1px;
+    padding: 0 10px;
+    padding-left: 10px;
+    position: relative;
+    margin: 0;
+  }
+  .izq{
+    float: left;
+  }
+  .der{
+    float: right;
+    margin-right:   -95% ;
+  }
+label{
+  color: red;
+  font-size: 140%;
+}
+.btn-datepicker{
+  background-image: url("indice.png");
+}
+.der h2{
+margin-top: -20%;
+
+}
